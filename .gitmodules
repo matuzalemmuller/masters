@@ -1,3 +1,9 @@
 [submodule "CBCA"]
 	path = CBCA
 	url = https://github.com/matuzalemmuller/CBCA
+[submodule "ia"]
+	path = ia
+	url = https://github.com/matuzalemmuller/ia
+[submodule "algoritmos"]
+	path = algoritmos
+	url = https://github.com/matuzalemmuller/algoritmos
