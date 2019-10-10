@@ -7,3 +7,6 @@
 [submodule "algoritmos"]
 	path = algoritmos
 	url = https://github.com/matuzalemmuller/algoritmos
+[submodule "aprendizado-maquina"]
+	path = aprendizado-maquina
+	url = https://github.com/matuzalemmuller/aprendizado-maquina
