@@ -1,12 +1,12 @@
-[submodule "CBCA"]
-	path = CBCA
-	url = https://github.com/matuzalemmuller/CBCA
-[submodule "ia"]
-	path = ia
-	url = https://github.com/matuzalemmuller/ia
 [submodule "algoritmos"]
 	path = algoritmos
 	url = https://github.com/matuzalemmuller/algoritmos
 [submodule "aprendizado-maquina"]
 	path = aprendizado-maquina
 	url = https://github.com/matuzalemmuller/aprendizado-maquina
+[submodule "inteligencia-artificial"]
+	path = inteligencia-artificial
+	url = https://github.com/matuzalemmuller/inteligencia-artificial
+[submodule "conceitos-controle-automacao"]
+	path = conceitos-controle-automacao
+	url = https://github.com/matuzalemmuller/conceitos-controle-automacao
