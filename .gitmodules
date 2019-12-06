@@ -10,3 +10,9 @@
 [submodule "conceitos-controle-automacao"]
 	path = conceitos-controle-automacao
 	url = https://github.com/matuzalemmuller/conceitos-controle-automacao
+[submodule "engenharia-software-orientada-servicos"]
+	path = engenharia-software-orientada-servicos
+	url = https://github.com/matuzalemmuller/engenharia-software-orientada-servicos
+[submodule "sistemas-multiagentes"]
+	path = sistemas-multiagentes
+	url = https://github.com/matuzalemmuller/sistemas-multiagentes
