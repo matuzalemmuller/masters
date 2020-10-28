@@ -16,3 +16,6 @@
 [submodule "sistemas-multiagentes"]
 	path = sistemas-multiagentes
 	url = https://github.com/matuzalemmuller/sistemas-multiagentes
+[submodule "tisa"]
+	path = tisa
+	url = https://github.com/matuzalemmuller/tisa
